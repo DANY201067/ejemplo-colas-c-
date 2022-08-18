@@ -13,6 +13,7 @@ int main() {
 	char opc;
 	do{ 
 		system("color 09");
+    cout<<"------RAMIREZ LIMAS DANY------"<<endl;
 	cout<<"******MENU DE OPCIONES********"<<endl;
 	cout<<"1.- Insertar"<<endl;
 	cout<<"2.- Extraer"<<endl;
